@@ -16,6 +16,10 @@ Developer's **homepage** and latest version [click here](https://space.bilibili.
 
 The latest version is FigureBest 4.3 [click here](https://www.bilibili.com/video/BV17L4y1x78W)
 
+**获取最新版与支持开发** [点此直达](https://mianbaoduo.com/o/bread/mbd-YZiclJxp)
+
+**Get the latest version and support development** [Click here](https://mianbaoduo.com/o/bread/mbd-YZiclJxp)
+
 ---
 
 可以将随手绘制的MATLAB数据图变得异常美观的GUI插件，一键傻瓜式操作。
