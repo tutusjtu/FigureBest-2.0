@@ -37,7 +37,7 @@ It is a GUI plug-in that can turn the MATLAB data graph drawn by hand into an ex
 
 ## 2. 使用帮助(how to use)
 
-### 2.1 方式1：从main.m启动,无GUI (start from main.m without GUI)
+### 方式1：从main.m启动,无GUI (start from main.m without GUI)
 
 ```
 %%  用法说明
@@ -78,6 +78,6 @@ controlAll(iNumber);
 %function handleMyFigure=controlFigure(iNumber)
 ```
 
-### 2.2 从figurebestgui.m启动,GUI界面操作 (start from figurebestgui.m with GUI)
+### 方式3：从FigureBestV2.m启动,GUI界面操作 (start from FigureBestV2.m with GUI)
 
-### 2.3 双击安装FigureBest_Pre(GUI).mlappinstall  (double click FigureBest_Pre(GUI).mlappinstall to install)
+### 方式3：双击安装FigureBestV2.mlappinstall  (double click FigureBestV2.mlappinstall to install)
