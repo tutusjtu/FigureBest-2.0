@@ -23,7 +23,7 @@ The latest version is FigureBest 4.3 [click here](https://www.bilibili.com/video
 ---
 
 可以将随手绘制的MATLAB数据图变得异常美观的GUI插件，一键傻瓜式操作。
-**2.0**目前确认支持**R2019a**及之后的版本，更早的版本需要大家自己下载适配！
+**2.0**目前确认支持**R2016a**及之后的版本，更早的版本需要大家自己下载适配！
 
 It is a GUI plug-in that can turn the MATLAB data graph drawn by hand into an exceptionally beautiful, and the operation is very simple. 2.0 is currently confirmed to support R2019a and later versions, and earlier versions need to be downloaded and adapted by yourself!
 
