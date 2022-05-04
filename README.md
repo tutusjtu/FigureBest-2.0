@@ -1,4 +1,7 @@
 # FigureBest 2.0
+
+(如果MATLAB中中文乱码，请去github下载代码！)
+
 A MATLAB plugin for automatic beautification of data plots
 
 
