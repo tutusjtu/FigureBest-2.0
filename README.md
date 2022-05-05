@@ -31,7 +31,7 @@ The latest version is FigureBest 4.3 [click here](https://www.bilibili.com/video
 It is a GUI plug-in that can turn the MATLAB data graph drawn by hand into an exceptionally beautiful, and the operation is very simple. 2.0 is currently confirmed to support R2019a and later versions, and earlier versions need to be downloaded and adapted by yourself!
 
 
-![](https://github.com/tutusjtu/FigureBest-2.0/blob/main/images/interface 2.0.2.png)
+![](https://github.com/tutusjtu/FigureBest-2.0/blob/main/images/interfacev202png)
 
 ![](https://github.com/tutusjtu/FigureBest-2.0/blob/main/images/interface.png)
 
